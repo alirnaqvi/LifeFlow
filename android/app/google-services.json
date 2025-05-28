@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302751662444",
+    "project_id": "lifeflow-3b9a1",
+    "storage_bucket": "lifeflow-3b9a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302751662444:android:4617ae48f83bd2b9923349",
+        "android_client_info": {
+          "package_name": "com.example.lifeflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5OnKHgxQxlv_XDgVIGs6ZF6z3RBuEPlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
