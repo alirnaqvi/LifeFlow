@@ -53,11 +53,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC5OnKHgxQxlv_XDgVIGs6ZF6z3RBuEPlY',
-    appId: '1:302751662444:android:4617ae48f83bd2b9923349',
-    messagingSenderId: '302751662444',
-    projectId: 'lifeflow-3b9a1',
-    storageBucket: 'lifeflow-3b9a1.firebasestorage.app',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_API_ID',
+    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
   );
 
 }
